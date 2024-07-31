@@ -1,0 +1,180 @@
+{
+  "systeminfo": "AVX = 1 | AVX2 = 1 | AVX512 = 0 | FMA = 1 | NEON = 0 | ARM_FMA = 0 | METAL = 0 | F16C = 1 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 0 | SSE3 = 1 | SSSE3 = 1 | VSX = 0 | CUDA = 0 | COREML = 0 | OPENVINO = 0",
+  "model": {
+    "type": "medium",
+    "multilingual": true,
+    "vocab": 51865,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "/home/clickalert/code/my-video/whisper.cpp/ggml-medium.bin",
+    "language": "pt",
+    "translate": false
+  },
+  "result": {
+    "language": "pt"
+  },
+  "transcription": [
+    {
+      "text": "Um dos",
+      "startInSeconds": 0.16
+    },
+    {
+      "text": "problemas",
+      "startInSeconds": 1
+    },
+    {
+      "text": "que",
+      "startInSeconds": 1.24
+    },
+    {
+      "text": "quem",
+      "startInSeconds": 1.6
+    },
+    {
+      "text": "vende",
+      "startInSeconds": 1.78
+    },
+    {
+      "text": "pela",
+      "startInSeconds": 2.06
+    },
+    {
+      "text": "internet",
+      "startInSeconds": 2.56
+    },
+    {
+      "text": "tem",
+      "startInSeconds": 3
+    },
+    {
+      "text": "é",
+      "startInSeconds": 3.56
+    },
+    {
+      "text": "que",
+      "startInSeconds": 4.18
+    },
+    {
+      "text": "muita",
+      "startInSeconds": 4.52
+    },
+    {
+      "text": "gente",
+      "startInSeconds": 4.86
+    },
+    {
+      "text": "chega",
+      "startInSeconds": 5.1
+    },
+    {
+      "text": "no checkout",
+      "startInSeconds": 5.3
+    },
+    {
+      "text": "e",
+      "startInSeconds": 6.42
+    },
+    {
+      "text": "não",
+      "startInSeconds": 6.88
+    },
+    {
+      "text": "conclui",
+      "startInSeconds": 7.16
+    },
+    {
+      "text": "a compra.",
+      "startInSeconds": 7.44
+    },
+    {
+      "text": "preenche",
+      "startInSeconds": 8.22
+    },
+    {
+      "text": "os dados,",
+      "startInSeconds": 8.84
+    },
+    {
+      "text": "deixa",
+      "startInSeconds": 10.56
+    },
+    {
+      "text": "pra comprar",
+      "startInSeconds": 10.8
+    },
+    {
+      "text": "depois",
+      "startInSeconds": 11.66
+    },
+    {
+      "text": "e acaba",
+      "startInSeconds": 11.86
+    },
+    {
+      "text": "esquecendo",
+      "startInSeconds": 12.5
+    },
+    {
+      "text": "e vc",
+      "startInSeconds": 12.88
+    },
+    {
+      "text": "acaba",
+      "startInSeconds": 13.7
+    },
+    {
+      "text": "perdendo",
+      "startInSeconds": 13.9
+    },
+    {
+      "text": "aquela",
+      "startInSeconds": 14.3
+    },
+    {
+      "text": "venda.",
+      "startInSeconds": 14.52
+    },
+    {
+      "text": "Esse",
+      "startInSeconds": 15.04
+    },
+    {
+      "text": "é um",
+      "startInSeconds": 15.18
+    },
+    {
+      "text": "problema",
+      "startInSeconds": 15.52
+    },
+    {
+      "text": "que a",
+      "startInSeconds": 15.7
+    },
+    {
+      "text": "ferramenta",
+      "startInSeconds": 15.98
+    },
+    {
+      "text": "WhizzyChat",
+      "startInSeconds": 16.96
+    },
+    {
+      "text": "resolve.",
+      "startInSeconds": 17.82
+    }
+  ]
+}

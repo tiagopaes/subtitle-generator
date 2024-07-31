@@ -1,0 +1,124 @@
+{
+  "systeminfo": "AVX = 1 | AVX2 = 1 | AVX512 = 0 | FMA = 1 | NEON = 0 | ARM_FMA = 0 | METAL = 0 | F16C = 1 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 0 | SSE3 = 1 | SSSE3 = 1 | VSX = 0 | CUDA = 0 | COREML = 0 | OPENVINO = 0",
+  "model": {
+    "type": "medium",
+    "multilingual": true,
+    "vocab": 51865,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "/home/clickalert/code/my-video/whisper.cpp/ggml-medium.bin",
+    "language": "pt",
+    "translate": false
+  },
+  "result": {
+    "language": "pt"
+  },
+  "transcription": [
+    {
+      "text": "Vc seleciona",
+      "startInSeconds": 0.44
+    },
+    {
+      "text": "todos",
+      "startInSeconds": 1.4
+    },
+    {
+      "text": "os eventos",
+      "startInSeconds": 1.64
+    },
+    {
+      "text": "que",
+      "startInSeconds": 2.36
+    },
+    {
+      "text": "vc",
+      "startInSeconds": 2.7
+    },
+    {
+      "text": "quer",
+      "startInSeconds": 3.16
+    },
+    {
+      "text": "automatizar,",
+      "startInSeconds": 3.58
+    },
+    {
+      "text": "e toda",
+      "startInSeconds": 4.7
+    },
+    {
+      "text": "vez",
+      "startInSeconds": 5.18
+    },
+    {
+      "text": "que",
+      "startInSeconds": 5.74
+    },
+    {
+      "text": "esses",
+      "startInSeconds": 6.1
+    },
+    {
+      "text": "eventos",
+      "startInSeconds": 6.36
+    },
+    {
+      "text": "acontecerem",
+      "startInSeconds": 6.94
+    },
+    {
+      "text": "lá",
+      "startInSeconds": 7.3
+    },
+    {
+      "text": "na Kiwify,",
+      "startInSeconds": 7.46
+    },
+    {
+      "text": "o sistema",
+      "startInSeconds": 8.22
+    },
+    {
+      "text": "vai",
+      "startInSeconds": 9.18
+    },
+    {
+      "text": "ser notificado",
+      "startInSeconds": 9.36
+    },
+    {
+      "text": "e o sistema",
+      "startInSeconds": 10.34
+    },
+    {
+      "text": "aqui vai",
+      "startInSeconds": 11.04
+    },
+    {
+      "text": "enviar",
+      "startInSeconds": 11.4
+    },
+    {
+      "text": "uma mensagem",
+      "startInSeconds": 11.68
+    },
+    {
+      "text": "para o WhatsApp.",
+      "startInSeconds": 12.24
+    }
+  ]
+}
